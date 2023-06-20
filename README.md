@@ -1,16 +1,10 @@
 # animator1
 
-A new Flutter project.
+A new Flutter project.(BMI_Calc)
 
-## Getting Started
+## Getting Started with animation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230620-134737](https://github.com/smit11001/BMI_Calc_animation/assets/113500028/d2aae4ca-7f1d-4c8b-b08c-5d676b298697)
+![Screenshot_20230620-135325](https://github.com/smit11001/BMI_Calc_animation/assets/113500028/671af8d4-fa7b-4264-a8b6-fddfe9dbe6f1)
+![Screenshot_20230620-135433](https://github.com/smit11001/BMI_Calc_animation/assets/113500028/5da049e4-65dd-40d8-b186-89001ece1aa1)
+![Screenshot_20230620-135440](https://github.com/smit11001/BMI_Calc_animation/assets/113500028/10eb34ab-e62a-4938-87c6-9dc62821aee1)
